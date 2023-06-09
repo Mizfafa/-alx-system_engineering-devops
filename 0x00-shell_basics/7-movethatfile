@@ -1,0 +1,4 @@
+To move the file betty from /tmp/ to /tmp/my_first_directory, create a new file named 7-movethatfile in your shell basics directory and add the following code:
+
+#!/bin/bash
+mv /tmp/betty /tmp/my_first_directory/
